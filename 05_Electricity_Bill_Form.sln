@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Electricity_Bill_Form", "05_Electricity_Bill_Form\05_Electricity_Bill_Form.csproj", "{6D42B640-1FC3-4EE7-8189-E2A3BD74AE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D42B640-1FC3-4EE7-8189-E2A3BD74AE41}.Debug|x86.ActiveCfg = Debug|x86
+		{6D42B640-1FC3-4EE7-8189-E2A3BD74AE41}.Debug|x86.Build.0 = Debug|x86
+		{6D42B640-1FC3-4EE7-8189-E2A3BD74AE41}.Release|x86.ActiveCfg = Release|x86
+		{6D42B640-1FC3-4EE7-8189-E2A3BD74AE41}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
